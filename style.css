@@ -1,0 +1,35 @@
+.logo {
+    border:0px solid blue;
+    display: flex;
+    justify-content: center; 
+    }
+
+.logo img {
+    height: 6rem;
+    }
+
+header {
+    border: 2px solid #C3F4FF;
+    text-align: center;
+    color: black;
+    background-color: #C3F4FF;
+    width: 98%;
+    }
+
+.grid {
+    display: grid;
+    grid-template-columns: 15% auto;
+    gap: 0.325 rem;
+    }
+
+aside {
+    border: 2px solid #65E3FF;
+    text-align: center;
+    color: black;
+    background-color: #65E3FF;
+    }
+
+.SidoRubrik {
+    background-color: #C3F4FF;
+
+    }
