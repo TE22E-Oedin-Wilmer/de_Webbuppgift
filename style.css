@@ -76,3 +76,35 @@ aside {
     font-family: 'Inika', serif;
     font-weight: bold;
     }
+
+article {
+    border: 2px solid #7BE7FF;
+    background-color: #7BE7FF;
+    align-items: center;
+    width: 400px;
+    height: 374px;
+    font-family: 'Inika', serif;
+    margin: 30px;
+    }
+
+.ReceptArtikel {
+    text-align: center;
+    }
+
+.ReceptArtikel h1{
+    font-size: 30px;
+    }
+
+.Serveringsförslag {
+    border: 2px solid #B5FBFF;
+    background-color: #B5FBFF;
+    width: 365px;
+    height: 200px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    }
+
+.Serveringsförslag p{
+    margin-left: 5px;
+    }
+
