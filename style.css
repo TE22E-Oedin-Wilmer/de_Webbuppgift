@@ -29,7 +29,6 @@ header h1{
 .grid {
     display: grid;
     grid-template-columns: 15% auto;
-    gap: 0.325 rem;
     }
 
 aside {
