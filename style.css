@@ -107,3 +107,20 @@ article {
     margin-left: 5px;
     }
 
+.LänkarTopp {
+    position: absolute;
+    right: 150px;
+    width: 323px;
+    height: 200px;
+    align-items: center;
+    margin-top: 160px;
+    margin-right: -50px;
+    border: 2px solid #35DBFF;
+    background-color: #35DBFF;
+    font-family: 'Inika', serif;
+    }
+
+.LänkarTopp h1{
+    text-align: center;
+    
+    }
