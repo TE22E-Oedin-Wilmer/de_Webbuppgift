@@ -122,5 +122,20 @@ article {
 
 .LänkarTopp h1{
     text-align: center;
-    
     }
+
+.KöttbullarImg {
+    position: absolute;
+    right: 150px;
+    margin-top: 400px;
+    margin-right: -50px;
+    align-items: center;
+    border: 10px solid #9CB8FF;
+    padding: 0;
+    padding-bottom: -5;
+    borderheight
+}
+
+.KöttbullarImg img{
+    height: 20rem;
+}
