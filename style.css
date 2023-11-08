@@ -14,9 +14,9 @@ header {
     text-align: center;
     color: black;
     background-color: #C3F4FF;
-    width: 96%;
+    width: 71%;
     height: 7rem;
-    margin-left: 20px;
+    margin-left: 30px;
     padding-bottom: 10px;
     }
 
@@ -81,7 +81,7 @@ article {
     background-color: #7BE7FF;
     align-items: center;
     width: 400px;
-    height: 374px;
+    height: 386px;
     font-family: 'Inika', serif;
     margin: 30px;
     }
@@ -110,11 +110,11 @@ article {
 .LänkarTopp {
     position: absolute;
     right: 150px;
-    width: 323px;
-    height: 200px;
+    width: 150px;
+    height: 386px;
     align-items: center;
     margin-top: 160px;
-    margin-right: -50px;
+    margin-right: -125px;
     border: 2px solid #35DBFF;
     background-color: #35DBFF;
     font-family: 'Inika', serif;
@@ -122,33 +122,52 @@ article {
 
 .LänkarTopp h2{
     text-align: center;
+    margin-bottom: -5px;
+    font-size: large;
+    }
+
+.LänkarTopp a{
+    margin-bottom: 50px;
+    margin-top: 10px;
     }
 
 .KöttbullarImg {
     position: absolute;
-    right: 150px;
-    margin-top: 400px;
-    margin-right: -50px;
+    right: 330px;
+    margin-top: 160px;
+    margin-right: -130px;
     align-items: center;
     border: 10px solid #9CB8FF;
     padding: 0;
-    padding-bottom: -5;
+    padding-bottom:50px;
     height: 56%;
     }
 
 .KöttbullarImg img{
-    height: 20rem;
+    height: 370px;
+    width: 395px;
     }
 
 .Ingredienslista {
+    align-items: center;
     position: absolute;
     left: 225px;
-    bottom: 100px;
+    bottom: -400px;
     border: 2px solid #C3F4FF;
     background-color: #C3F4FF;
-    align-items: center;
+    
     }
 
 .Ingredienslista img{
     height: 4rem;
-}
+    margin-left: 60px;
+    }
+
+.Ingredienslista h2{
+    text-align: center;
+    }
+
+.Ingredienslista li{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    }
