@@ -52,7 +52,7 @@ aside {
     padding-bottom: 17px;
     }
 
-.SidoRubrik h1{
+.SidoRubrik h2{
     font-family: 'Inika', serif;
     text-align: center;
     margin-top: -2px;
@@ -90,7 +90,7 @@ article {
     text-align: center;
     }
 
-.ReceptArtikel h1{
+.ReceptArtikel h2{
     font-size: 30px;
     }
 
@@ -120,7 +120,7 @@ article {
     font-family: 'Inika', serif;
     }
 
-.LänkarTopp h1{
+.LänkarTopp h2{
     text-align: center;
     }
 
