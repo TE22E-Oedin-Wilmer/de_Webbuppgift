@@ -253,5 +253,15 @@ main h2{
 footer {
     border: 2px solid #C3DBFF;
     background-color: #C3DBFF;
-    width: ;
+    width: 77rem;
+    height: 6rem;
+    margin-left: 0.5rem;
+    margin-top: 1rem;
+    }
+
+.SistaLänkar{
+    font-family: 'Inter', sans-serif;
+    font-size: larger;
+
+
     }
