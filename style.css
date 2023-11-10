@@ -147,6 +147,7 @@ article {
 
 .Serveringsförslag p{
     margin-left: 5px;
+    margin-top: 1rem;
     }
 
 .LänkarTopp {
@@ -206,6 +207,7 @@ article {
 .Ingredienslista img{
     height: 4rem;
     margin-left: 9rem;
+
     }
 
 .Ingredienslista h2{
@@ -263,7 +265,13 @@ footer {
     }
 
 .SistaLänkar{
+    position: absolute;
     font-family: 'Inter', sans-serif;
     font-size: larger;
+    }
 
+.SistaLänkar ul{
+    float: left;
+    margin-left: 5rem;
+    color: gray;
     }
