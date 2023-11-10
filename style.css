@@ -251,6 +251,9 @@ main h2{
     }
 
 footer {
+    display: flex;
+    flex-direction: row;
+    grid-template-rows: auto;
     border: 2px solid #C3DBFF;
     background-color: #C3DBFF;
     width: 77rem;
@@ -262,6 +265,5 @@ footer {
 .SistaLänkar{
     font-family: 'Inter', sans-serif;
     font-size: larger;
-
 
     }
